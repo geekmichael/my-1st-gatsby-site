@@ -8,7 +8,7 @@ module.exports = {
   },
   plugins: [
 //    "gatsby-plugin-sitemap",
-//    "gatsby-plugin-mdx", 
+    "gatsby-plugin-mdx", 
     "gatsby-plugin-image",
     "gatsby-plugin-sharp", {
       resolve: 'gatsby-source-filesystem',
